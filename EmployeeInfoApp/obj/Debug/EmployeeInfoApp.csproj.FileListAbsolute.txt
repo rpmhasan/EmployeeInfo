@@ -1,0 +1,9 @@
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.EployeInformationUI.resources
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+E:\Rupam's Works\29.04\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb
